@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjemplosIntroductorios", "EjemplosIntroductorios\EjemplosIntroductorios.csproj", "{AB9FFBD8-F5E3-46BC-B928-CB6444EAF583}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjemploCorreo", "EjemploCorreo\EjemploCorreo.csproj", "{1BE1542B-3C82-4DBB-879B-DE9ADAF0F2CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntroToLINQ", "IntroToLINQ\IntroToLINQ.csproj", "{FE0507CB-68DD-426D-B1EA-8CE41680D584}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinServices", "WinServices\WinServices.csproj", "{B45ECA82-092E-4A79-9A81-C319B226A1F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManejoHilos", "ManejoHilos\ManejoHilos.csproj", "{848AB25D-8E96-46C4-96C8-CD8AA6A063CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjemploAsincronia", "EjemploAsincronia\EjemploAsincronia.csproj", "{F85022E7-8284-464C-9484-71D50A15BB95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB9FFBD8-F5E3-46BC-B928-CB6444EAF583}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB9FFBD8-F5E3-46BC-B928-CB6444EAF583}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB9FFBD8-F5E3-46BC-B928-CB6444EAF583}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB9FFBD8-F5E3-46BC-B928-CB6444EAF583}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BE1542B-3C82-4DBB-879B-DE9ADAF0F2CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BE1542B-3C82-4DBB-879B-DE9ADAF0F2CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BE1542B-3C82-4DBB-879B-DE9ADAF0F2CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BE1542B-3C82-4DBB-879B-DE9ADAF0F2CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE0507CB-68DD-426D-B1EA-8CE41680D584}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE0507CB-68DD-426D-B1EA-8CE41680D584}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE0507CB-68DD-426D-B1EA-8CE41680D584}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE0507CB-68DD-426D-B1EA-8CE41680D584}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B45ECA82-092E-4A79-9A81-C319B226A1F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B45ECA82-092E-4A79-9A81-C319B226A1F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B45ECA82-092E-4A79-9A81-C319B226A1F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B45ECA82-092E-4A79-9A81-C319B226A1F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{848AB25D-8E96-46C4-96C8-CD8AA6A063CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{848AB25D-8E96-46C4-96C8-CD8AA6A063CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{848AB25D-8E96-46C4-96C8-CD8AA6A063CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{848AB25D-8E96-46C4-96C8-CD8AA6A063CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F85022E7-8284-464C-9484-71D50A15BB95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F85022E7-8284-464C-9484-71D50A15BB95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F85022E7-8284-464C-9484-71D50A15BB95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F85022E7-8284-464C-9484-71D50A15BB95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A09FCD10-5CB5-4C6E-B9EC-AFCD85303D38}
+	EndGlobalSection
+EndGlobal
